@@ -27,3 +27,8 @@ No lugar do intepretador pytho, recomendamos usar o shell do django:
 ```bash
 python perceptifruti/manage.py shell
 ```
+
+## Initial results
+[![Video Title](https://img.youtube.com/vi/c6KKnYIxAlI/0.jpg)](https://www.youtube.com/watch?v=c6KKnYIxAlI)
+
+[![Video Title](https://img.youtube.com/vi/0Hoh1w_Er9w/0.jpg)](https://www.youtube.com/watch?v=0Hoh1w_Er9w)
